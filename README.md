@@ -88,7 +88,7 @@ Order: Laptop Qty: 2 successful.
 
 | Screen | Description |
 |--------|-------------|
-| `assets/menu.png` | Main menu screen |
+| `[Main Menu](assets/menu.png)` | Main menu screen |
 | `assets/add_product.png` | Adding a product |
 | `assets/order.png` | Placing an order |
 
@@ -100,8 +100,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Student Name**  
-ADIT College — B.Tech CSE  
+**Jitiksha Patel (12402080601054)**  
+ADIT College — B.Tech IT-A
 Course: Programming with Java (PWJ)
