@@ -88,7 +88,7 @@ Order: Laptop Qty: 2 successful.
 
 | Screen | Description |
 |--------|-------------|
-| `[Main Menu](assets/menu.png)` | Main menu screen |
+| [Main Menu](assets/menu.png) | Main menu screen |
 | `assets/add_product.png` | Adding a product |
 | `assets/order.png` | Placing an order |
 
