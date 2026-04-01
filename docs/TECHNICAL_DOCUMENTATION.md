@@ -158,15 +158,5 @@ Key sections in `MainApp.java`:
 
 ## 7. API / Interface Documentation
 
-> This is a console application; there are no HTTP APIs.  
-> The public methods of `InventoryManager` serve as the internal API:
+> This project does not expose external APIs. All operations are handled internally through Java classes and methods. 
 
-| Method | Parameters | Returns | Description |
-|--------|-----------|---------|-------------|
-| `addProduct(Product p)` | Product object | void | Adds to HashMap |
-| `displayProducts()` | — | void | Prints all products |
-| `searchProduct(String kw)` | keyword | void | Name-based search |
-| `filterByCategory(String c)` | category name | void | Category filter |
-| `processOrder(int id, int qty)` | product id, qty | void | Throws StockException |
-| `saveToFile()` | — | void | Saves to inventory.txt |
-| `loadFromFile()` | — | void | Loads from inventory.txt |
