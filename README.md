@@ -1,6 +1,3 @@
-# Java-Inventory-Management-System
-Console-based Inventory Management System - PWJ Mini Project
-
 # Java Inventory Management System
 
 A console-based Inventory Management System built in Java as a mini project for the **PWJ (Programming with Java)** course at **ADIT College**.
